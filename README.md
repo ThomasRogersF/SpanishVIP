@@ -1,2 +1,2 @@
 # SpanishVIP
-spanisvip ebook template
+spanisvip ebook template for Spanishvip academy
